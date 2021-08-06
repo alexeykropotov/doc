@@ -34,7 +34,8 @@
 ```
 
 
-для написания можно использовать Stackblitz
+## Для выполнения можно использовать Stackblitz
 
 JS: https://stackblitz.com/fork/react
+
 TS: https://stackblitz.com/fork/react-ts
